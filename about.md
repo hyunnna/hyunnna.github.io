@@ -10,6 +10,9 @@ main_nav: true
 
 I made my own blog!
 welcome everyone :>
+and my name is ##HyunHwa Jung! 
+I'm 21 years old.
+I like to go outside and take pictures and I love all of cute things.
 
 I applied Centrarium theme made by [Ben Centra][bencentra]
 
@@ -20,9 +23,9 @@ I will post my blog and day life. :)
 If you want know more about me, come and follow me!
 
 
-instagram : (https://www.instagram.com/love_inglow)
+[instagram](https://www.instagram.com/love_inglow)
 
-facebook : (https://www.facebook.com/profile.php?id=100009600046041)
+[facebook](https://www.facebook.com/profile.php?id=100009600046041)
 
 
 
