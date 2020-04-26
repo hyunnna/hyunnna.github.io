@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 title: About Me
 permalink: /about/
 main_nav: true
