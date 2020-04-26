@@ -82,9 +82,10 @@ int main(){
 
 
 **풀이를 보면 3n/2번 옮기면 항상 답이 나온다.**
+
 ***
 
-**출처 : [문제](https://www.acmicpc.net/problem/2516)**  **[코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
+>**출처 : [문제](https://www.acmicpc.net/problem/2516)**  **[코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
 
-
+***
 		
