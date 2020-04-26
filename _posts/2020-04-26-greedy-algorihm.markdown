@@ -6,7 +6,6 @@ author: hyunnna
 categories: algorism
 tags:	learning
 cover:  "/assets/instacode.png"
-comments: true
 ---
 
 # Greedy Algorihm
@@ -24,5 +23,5 @@ comments: true
 
 ####new greedy
 
-
+내가 생각했던 그리디 문제는 
  

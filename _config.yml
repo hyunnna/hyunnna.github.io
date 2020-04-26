@@ -46,7 +46,7 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
-Disqus comments
+Disqus comments: true
 disqus_shortname: hyunnna
 
 # Google analytics
