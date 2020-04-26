@@ -17,11 +17,11 @@ I like to go outside and take pictures and I love all of cute things.
 
 I applied Centrarium theme made by Ben Centra
 
-This page is good place to write my learning.
-I will post my blog and day life. :)
+This page is good place to write my learnings.
+I will post my homeworks and day life. :)
 
 
-If you want know more about me, come and follow me!
+If you want to know more about me, come and follow me!
 
 
 [MY INSTAGRAM](https://www.instagram.com/lovein_glow/)
