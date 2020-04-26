@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Seize The Day !
-subtitle: " ٩(๑`^´๑)۶           ICE 201901721"
+subtitle: " ٩(๑`^´๑)۶             ICE 201901721"
 email: wjdgusghk904@naver.com
 name: hyunnna
 description: >
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hyunnna.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg , /assets/profile.jpg"
+cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
 # Build settings

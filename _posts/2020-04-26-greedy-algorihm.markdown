@@ -9,7 +9,10 @@ cover:  "/assets/instacode.png"
 ---
 
 # Greedy Algorihm
+## : 최적해를 구하는 상황에서 사용 
 
-**<span style = "color:blue">특징** <br />
-### 활동 선택 문제
+***
+
+### **<span style = "color:blue">특징**
+#### 
  
