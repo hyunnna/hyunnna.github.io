@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title:  "my daylife"
-date:   2020-04-26 T14:25:52-05:00
+date:   2020-04-26T14:25:52-05:00
 author: hyunnna
 categories: daylife
 ---
