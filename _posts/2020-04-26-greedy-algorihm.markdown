@@ -6,6 +6,7 @@ author: hyunnna
 categories: algorism
 tags:	learning
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 # Greedy Algorihm
