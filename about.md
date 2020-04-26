@@ -14,7 +14,7 @@ welcome everyone :>
 and my name is **HyunHwa Jung**! 
 
 I'm 21 years old.
-I like to go outside and take pictures and I love all of cute things.
+I like to go outside and take pictures and I love all of ❤cute things❤.
 
 I applied Centrarium theme made by Ben Centra
 
