@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Strassen Algorism"
-date:   2020-04-20 08:43:59
+date:   2020-04-20 08:40:59
 author: hyunnna
 categories: algorism
 tags:	learning

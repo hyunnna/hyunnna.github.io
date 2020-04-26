@@ -7,3 +7,8 @@ categories: algorism
 tags:	learning
 cover:  "/assets/instacode.png"
 ---
+
+##Greedy Algorihm
+
+<span style = "color:blue">특징<\span>
+-
