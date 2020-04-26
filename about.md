@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 main_nav: true
 ---
