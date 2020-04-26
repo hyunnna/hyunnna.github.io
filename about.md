@@ -23,10 +23,9 @@ I will post my homeworks and day life. :)
 
 If you want to know more about me, come and follow me!
 
+。˚。˚。˚。˚。˚。˚。˚。˚[MY INSTAGRAM](https://www.instagram.com/lovein_glow/)。˚。˚。˚。˚。˚。˚。˚。˚
 
-[MY INSTAGRAM](https://www.instagram.com/lovein_glow/)
-
-[MY FACEBOOK](https://www.facebook.com/profile.php?id=100009600046041)
+。˚。˚。˚。˚。˚。˚。˚。˚[MY FACEBOOK](https://www.facebook.com/profile.php?id=100009600046041)。˚。˚。˚。˚。˚。˚。˚。˚
 
 
 
