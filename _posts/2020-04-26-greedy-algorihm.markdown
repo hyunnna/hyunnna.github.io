@@ -16,7 +16,7 @@ cover:  "/assets/instacode.png"
 #### **<span style = "color:blue">특징</span>**
 - 불필요한 탐색시간 삭제                                 
 - 시간적으로 효율적        
-- **<span style = "color:red">언제나 적합한 해를 구하지는 못함**    
+- **<span style = "color:red">언제나 적합한 해를 구하지는 못함</span>**    
      * 마시멜로 실험 : 그리디 알고리즘에 따르면 바로 마시멜로를 먹는것이 적합한 해로 인식되겠지만        **기다리면 두개를 먹을 수 있다** 라는 최적해로 가지 못한다.
 
 ***
@@ -29,7 +29,7 @@ cover:  "/assets/instacode.png"
 
 
 #### 코드
-```
+```(c++)
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -79,12 +79,12 @@ int main(){
     cout << b << " "; for(int i=1; i<=n; i++) if(pos[i]) cout << i << " ";
 }
 ```
-***
 
-**출처 : [문제](https://www.acmicpc.net/problem/2516)**        
-
-**[코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
 
 **풀이를 보면 3n/2번 옮기면 항상 답이 나온다.**
+***
+
+**출처 : [문제](https://www.acmicpc.net/problem/2516)**  **[코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
+
 
 		
