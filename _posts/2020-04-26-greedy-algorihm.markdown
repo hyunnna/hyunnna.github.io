@@ -13,6 +13,6 @@ cover:  "/assets/instacode.png"
 
 ***
 
-### **<span style = "color:blue">특징**
+### **<span style = "color:blue">특징</span>**
 #### 
  
