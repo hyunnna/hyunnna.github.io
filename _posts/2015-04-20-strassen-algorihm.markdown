@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Strassen Algorism"
 date:   2020-04-20 08:40:59
 author: hyunnna

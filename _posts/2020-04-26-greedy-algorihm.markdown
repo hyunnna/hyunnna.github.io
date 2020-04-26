@@ -13,7 +13,12 @@ cover:  "/assets/instacode.png"
 
 ***
 
-###### **<span style = "color:blue">특징</span>**
-* 최적화 문제에서 동적 프로그램을 사용한다면 지나치게 많은 탐색을 할 수 있으므로    그중에서 가장 **좋은것**을 택할때 사용     
+#### **<span style = "color:blue">특징</span>**
+* 불필요한 탐색시간 삭제                                 
+* 시간적으로 효율적        
+* <span style = "color:red">언제나 적합한 해를 구하지는 못함    
+
+***
+
 
  
