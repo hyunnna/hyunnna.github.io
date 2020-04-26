@@ -20,6 +20,7 @@ categories: learning
   멀티 catch 가능
 
 4.이진수 표현
+---------
 
 ***
 
@@ -36,7 +37,7 @@ categories: learning
 4.Optional
   optional은 null이 될 수도 있는 객체를 감싸는 일종의 래퍼 클래스이다.
     null 체크를 최대한 하지 않고도 코딩할 수 있게 됨
-
+---------
 ***
 
 >**Java 9**
@@ -44,10 +45,11 @@ categories: learning
 1.인터페이스 내에 private 구현체 가능
 2.모듈시스템 등장
   기존 jar 방식을 개선하기 위해 등장
-
+---------
 ***
 
 >**Java 10**
 ---------
 1.Local Vaiable Type Inference 에서 var 사용
 2.JVM heap 영역을 NVDIMM (비휘발성 NAND 플래시 메모리) 혹은 사용자 지정과 같은 대체 메모리 장치에 할당 가능
+---------

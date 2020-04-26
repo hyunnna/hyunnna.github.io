@@ -10,7 +10,8 @@ main_nav: true
 
 I made my own blog!
 welcome everyone :>
-and my name is ##HyunHwa Jung! 
+and my name is HyunHwa Jung! 
+
 I'm 21 years old.
 I like to go outside and take pictures and I love all of cute things.
 
