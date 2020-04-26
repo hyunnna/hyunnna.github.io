@@ -23,9 +23,9 @@ I will post my blog and day life. :)
 If you want know more about me, come and follow me!
 
 
-[instagram](https://www.instagram.com/love_inglow)
+[my instagram](https://www.instagram.com/love_inglow/)
 
-[facebook](https://www.facebook.com/profile.php?id=100009600046041)
+[my facebook](https://www.facebook.com/profile.php?id=100009600046041)
 
 
 
