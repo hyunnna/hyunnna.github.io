@@ -4,7 +4,7 @@ title:  "Difference-Of-Java-Version"
 date:   2020-04-18T14:25:52-05:00
 author: hyunnna
 categories: learning
-cover:  "/assets/java.jpg"
+cover:  "/assets/java1.png"
 ---
 
 **Java version 에 따른 차이점**
