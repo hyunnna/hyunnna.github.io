@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Difference-Of-Java-Version"
+title:  "Difference Of Java Version"
 date:   2020-04-18T14:25:52-05:00
 author: hyunnna
 categories: learning
 cover:  "/assets/java1.png"
 ---
 
-**Java version 에 따른 차이점**
-============
+		**Java version 에 따른 차이점**
+		============
 
->**Java 7**
+
+**Java 7**
 --------
 
 >1. 타입추론 (Type Inference)
@@ -26,7 +27,7 @@ cover:  "/assets/java1.png"
 
 ***
 
->**Java 8**
+**Java 8**
 --------
 >1.Lambda
 >  컴파일러에게 실질적 구현을 시키는 방식
@@ -42,7 +43,7 @@ cover:  "/assets/java1.png"
 
 ***
 
->**Java 9**
+**Java 9**
 --------
 >1.인터페이스 내에 private 구현체 가능
 >2.모듈시스템 등장
@@ -50,7 +51,7 @@ cover:  "/assets/java1.png"
 
 ***
 
->**Java 10**
+**Java 10**
 ---------
 >1.Local Vaiable Type Inference 에서 var 사용
 >2.JVM heap 영역을 NVDIMM (비휘발성 NAND 플래시 메모리) 혹은 사용자 지정과 같은 대체 메모리 장치에 할당 가능

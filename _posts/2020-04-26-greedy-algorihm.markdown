@@ -8,7 +8,8 @@ tags:	learning
 cover:  "/assets/instacode.png"
 ---
 
-##Greedy Algorihm
+# Greedy Algorihm
 
-<span style = "color:blue">특징<\span>
--
+**<span style = "color:blue">특징** <br />
+### 활동 선택 문제
+ 
