@@ -23,7 +23,7 @@ I will post my blog and day life. :)
 If you want know more about me, come and follow me!
 
 
-[my instagram](https://www.instagram.com/love_inglow/)
+[my instagram](https://www.instagram.com/lovein_glow/)
 
 [my facebook](https://www.facebook.com/profile.php?id=100009600046041)
 
