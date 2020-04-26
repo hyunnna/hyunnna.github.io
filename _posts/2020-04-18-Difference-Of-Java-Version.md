@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Difference-Of-Java-Version"
-date:   2020-04-18T14:25:52-05:00
+date:   2020-04-18 14:25:52-05:00
 author: hyunnna
 categories: learning
 ---
