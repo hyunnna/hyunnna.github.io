@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Difference Of Java Version"
 date:   2020-04-18T14:25:52-05:00
 author: hyunnna
@@ -55,4 +56,4 @@ cover:  "/assets/java1.png"
 ---------
 >1.Local Vaiable Type Inference 에서 var 사용         
 >2.JVM heap 영역을 NVDIMM (비휘발성 NAND 플래시 메모리) 혹은 사용자 지정과 같은 대체 메모리 장치에 할당 가능
----------
+
