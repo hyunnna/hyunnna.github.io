@@ -29,8 +29,7 @@ cover:  "/assets/instacode.png"
 
 
 #### 코드
-<pre>
-<code>
+```
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -79,14 +78,12 @@ int main(){
     cout << "\n";
     cout << b << " "; for(int i=1; i<=n; i++) if(pos[i]) cout << i << " ";
 }
-</code>
-</pre>
-
+```
 ***
 
 **출처 : [문제](https://www.acmicpc.net/problem/2516)**        
 
-**        [코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
+**[코드](https://justicehui.github.io/koi/2019/11/18/BOJ2516/)**
 
 **풀이를 보면 3n/2번 옮기면 항상 답이 나온다.**
 
